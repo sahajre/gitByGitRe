@@ -1,0 +1,9 @@
+Pre-requisite: Download and install Git
+
+Getting started
+ * Working on project from scratch
+ 	mkdir project
+	git init
+	
+ * Working on existing project
+ * Converting from other version control system
